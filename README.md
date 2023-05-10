@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,Me llamo Enoc Garcia</h1>
-<h3 align="center">soy un desarrollador junior apasionado</h3>
+<h3 align="center">Soy un desarrollador junior con ganas de aprender</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
